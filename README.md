@@ -1,1 +1,2 @@
 # TerrariaMods
+InfiniteQuiversAndAmmoPounds：部分有用的无尽箭袋与弹药袋，均由四组弹药在合成台 合成
